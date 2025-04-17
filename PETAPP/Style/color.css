@@ -1,4 +1,4 @@
-.text-green,
+.text-orange,
 .pageNav2 a:hover,
 .langList a:hover,
 .wishList a:hover,
@@ -88,5 +88,6 @@
 .pageNav1 .navbar-toggle:hover,
 .footerHolder .tagNavList a:hover,
 .show-head .viewFilterLinks a:hover,
-.dealSlider .slick-dots button:before {
+.dealSlider .slick-dots button:before,
+.nav-item a:hover {
   border-color: #5ba515; }
